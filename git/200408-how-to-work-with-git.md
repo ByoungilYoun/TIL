@@ -5,31 +5,25 @@
 - Start with git
 
 
-     -1 git init
+     1 git init
 
 
-     -2 git status
+     2 git status
 
 
-     -3 git git remote add origin https://github.com/ByoungilYoun/first-repo.git
+     3 git git remote add origin https://github.com/ByoungilYoun/first-repo.git
 
 
-     -4 git remote get -url origin
+     4 git remote get -url origin
 
 
-     -5 git add {filename}
+     5 git add {filename}
 
 
-     -6 git commit -m "(work name)"
+     6 git commit -m "(work name)"
 
 
-     -7 git push 
+     7 git push origin master
 
 
--Item 2
-
-
--Item 3
-
-
-## TODO
+ 
