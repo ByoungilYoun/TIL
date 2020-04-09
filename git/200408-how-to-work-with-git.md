@@ -43,35 +43,6 @@
 
      -13. git status
 
-     -14. git push -u origin master
-
-  
-
-## TODO
-=======
-- Start with git
+     -14. git push -u origin master 
 
 
-     1 git init
-
-
-     2 git status
-
-
-     3 git git remote add origin https://github.com/ByoungilYoun/first-repo.git
-
-
-     4 git remote get -url origin
-
-
-     5 git add {filename}
-
-
-     6 git commit -m "(work name)"
-
-
-     7 git push origin master
-
-
- 
->>>>>>> b6a07e954c08950753200eafe11d1d6071fb44dc
