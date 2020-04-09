@@ -33,25 +33,25 @@
      - brew update; brew upgrade;
 
 
-    5. Typora - Markdown Editor
+   5. Typora - Markdown Editor
 
 
      - https://typora.io/
 
 
-    6. allkdic - 영어사전
+   6. allkdic - 영어사전
 
 
      - https://apps.apple.com/kr/app/allkdic-handy-dictionary-in-status-bar/id1033453958?l=en&mt=12
 
 
-    7. keka - 압축/ 해제 프로그램
+   7. keka - 압축/ 해제 프로그램
 
 
     - https://www.keka.io/en/
 
 
-    8. 화면 분할 앱 선택
+   8. 화면 분할 앱 선택
 
 
     -Spectacle : 화면 분할 (https://www.spectacleapp.com)
