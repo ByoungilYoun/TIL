@@ -31,15 +31,13 @@ print(result1)
 
 //4. 4과목의 시험 점수를 입력받아 평균 점수를 반환하는 함수
 
-func printAverage (scores : Int ...) -> Int {
-    var total = 0
-    for subject in scores {
-        total += subject
-    }
-    return total / (scores.count)
+func printAverage (Korean : Int, English : Int, Math : Int, Science : Int) -> Int {
+    var total = Korean + English + Math + Science
+    
+    return total / 4
 }
 
-var result2 = printAverage(scores: 100,80,70,90)
+var result2 = printAverage(Korean: 100, English: 70, Math: 80, Science: 90)
 print(result2)
 
 //5. 점수를 입력받아 학점을 변환하는 함수 만들기 (90점 이상 A, 80점 이상 B, 70점 이상 C, 그 이하 F)
