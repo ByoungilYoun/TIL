@@ -122,10 +122,10 @@
    
  정수/ 실수/ 문자/ 문자열/ 불리언 리터럴 등      
 
-- Inteer Types     
+- Integer Types     
 
 
-  - 8-bit : Int8 ( -2^7 ~ 2^7 -1) , UInt (0 ~ 2^7 -1)    
+  - 8-bit : Int8 ( -2^7 ~ 2^7 -1) , UInt8 (0 ~ 2^8 -1)    
 
   - 16-bit : Int16, UInt16   
 
