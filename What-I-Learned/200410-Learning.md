@@ -484,19 +484,31 @@ Float : 최소 소수점 이하 6자리 이하의 정밀도
   
 
 	func chooseFunction(plus : Bool, value : Int) -> Int {      
-   	   func plusFunction(input : Int) -> Int {       
-   	       input + 1       
-   	   }       
-   	   func minusFunction(input : Int) -> Int {        
-               input -1      
-           }      
+   	   	
+		func plusFunction(input : Int) -> Int {       
+   	       
+	       	input + 1       
+   	   	
+		}       
+   	   	
+		func minusFunction(input : Int) -> Int {        
+               	
+		input -1      
+           	
+		}      
 
    	if plus {     
-     	   return plusFunction(input : value)       
-   	 } else {       
-     	   return minusFunction(input : value)       
-    	 }        
-	}      
+     	   
+	   return plusFunction(input : value)       
+   	 
+	   } else {       
+     	   
+	   return minusFunction(input : value)       
+    	   
+	   }        
+	
+	}  
+	
 
 	var value = 4      
 
