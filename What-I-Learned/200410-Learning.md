@@ -22,10 +22,11 @@
  
 ## 1. Hello, world!   
    
-- Hello world! 프린트 하기       
-      
+- Hello world! 프린트 하기    
+
+```      
 	print("Hello, world!")      
-        
+```        
 
 - 주석 (Comment)   
 
