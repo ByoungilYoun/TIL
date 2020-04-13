@@ -25,7 +25,7 @@
 - Hello world! 프린트 하기    
 
 ```      
-	print("Hello, world!")      
+print("Hello, world!")      
 ```        
 
 - 주석 (Comment)   
@@ -344,177 +344,170 @@ Float : 최소 소수점 이하 6자리 이하의 정밀도
   - Input 과 Output 이 모두 있는 것 (Function)    
 
 
-
-	func functionName (parameterName : Type) -> Returntype {     
-    	   statements       
-	}          
-
+```
+func functionName (parameterName : Type) -> Returntype {     
+   statements       
+}          
+```
 - Functions without parameters      
 
-   
-	func hello1() {    
-    	  print("Hello, world!")     
-	}       
+```
+func hello1() {    
+   print("Hello, world!")     
+}       
 
-	hello1()     
+hello1()     
 
 
-	func hello2() -> String {       
-    	   return "Hello, world!"      
-	}    
+func hello2() -> String {       
+   return "Hello, world!"      
+}    
    	
-	hello2()      
-
+hello2()      
+```
 
 - Functions without return values      
    
-   
-	func say(number : Int) {      
-   	   print(number)     
-	}       
+ ``` 
+func say(number : Int) {      
+    print(number)     
+}       
 
-	func say(word: String) -> Void {      
-   	   print(word)    
-	}       
+func say(word: String) -> Void {      
+    print(word)    
+}       
 
-	func say(something : String) -> () {      
-   	   print(something)     
-	}    
-     
+func say(something : String) -> () {      
+    print(something)     
+}    
+```     
 
 - Functions with params and return values     
  
-
-	func addNumbers(a : Int, b : Int) -> Int {     
-	    return a + b     
-	}	   
-      
+```
+func addNumbers(a : Int, b : Int) -> Int {     
+   return a + b     
+ }	   
+ ```     
 
 - Omit Return     
    
- 
-	func addTwoNumbers(a: Int, b: Int) -> Int {     
-    	   a + b // return a + b 와 동일     
-	}        
-
+``` 
+func addTwoNumbers(a: Int, b: Int) -> Int {     
+   a + b // return a + b 와 동일     
+}        
+```
 
 - Function Scope      
 
+```
+let outside = "outside"    
 
-	let outside = "outside"    
+func scope() {     
+  print(outside)    
+  let inside = "inside"     
+  print(inside)      
+}         
 
-	func scope() {     
-  	   print(outside)    
-  	   let inside = "inside"     
-  	   print(inside)      
-	}         
-
-	print(inside) // 에러      
-
+print(inside) // 에러      
+```
 
 - Argument Label     
     
    
-	func someFunction(first: Int, second : Int) {      
-  	    print(first, second)     
-	}     
+func someFunction(first: Int, second : Int) {      
+   print(first, second)     
+}     
     
-	someFunction(first : 1, second : 2)      
+someFunction(first : 1, second : 2)      
         
 
-	// Specifying Argument Labels         
-	func multiplyNumber(1hs num1: Int, rhs num2: Int) {      
-   	   num1+num2        
-	}            
+// Specifying Argument Labels         
+func multiplyNumber(1hs num1: Int, rhs num2: Int) {      
+  num1+num2        
+}            
 	
-	multiplyNumber(1hs : 10, rhs: 10)     
+multiplyNumber(1hs : 10, rhs: 10)     
 
 
-	// Omitting Argument Labels         
-	func someFunction ( _ first : Int,  second : Int) {        
-    	   print(first, second)      
-	}    
+// Omitting Argument Labels         
+func someFunction ( _ first : Int,  second : Int) {        
+    print(first, second)      
+}    
         
-	someFunction (1, second : 2)      
-
+someFunction (1, second : 2)      
+```
 
 - Argument Label을 별도로 지정하는 건 어떤 경우인가??      
    
+```
+func use(item : String) {      
+   print(item)       
+}           
 
-	func use(item : String) {      
-	    print(item)       
-	}           
-
-	use(item : "Macbook")      
+use(item : "Macbook")      
 
 
-	func speak( to name : String) {      
-  	    print(name)          
-	}	      
+func speak( to name : String) {      
+   print(name)          
+}	      
    
-	speak(to: "Jimmy")      
-
+speak(to: "Jimmy")      
+```
 
 - Default Parameter Values      
 
-   
-	func functionWithDefault(param: Int = 12) -> Int {      
-   	    return param       
-	}        
+```   
+func functionWithDefault(param: Int = 12) -> Int {      
+   return param       
+}        
 
-	functionWithDefault(param : 6)  // param is 6      
+unctionWithDefault(param : 6)  // param is 6      
 
-	functionWithDefault()  //param is 12           
-    
+functionWithDefault()  //param is 12           
+```    
 
 - Variadic Parameters      
   
-    
-	func arithmeticAverage(_ numbers : Double ...) -> Double {      
-      	   var total = 0.0      
-           for number in numbers {      
-   	      total += number       
-   	   }            
-   	return total / Double(numbers.count)         
-	}   
-
+```    
+func arithmeticAverage(_ numbers : Double ...) -> Double {      
+     var total = 0.0      
+     for number in numbers {      
+     total += number       
+ }            
+     return total / Double(numbers.count)         
+}   
+```
    
 - Nested Functions     
 
   - 외부에는 숨기고 함수 내부에서만 사용할 함수를 중첩하여 사용 가능    
   
-
-	func chooseFunction(plus : Bool, value : Int) -> Int {      
+```
+func chooseFunction(plus : Bool, value : Int) -> Int {      
    	   	
-		func plusFunction(input : Int) -> Int {       
-   	       
-	       	input + 1       
+   func plusFunction(input : Int) -> Int {       
+      input + 1       
    	   	
-		}       
+   }       
    	   	
-		func minusFunction(input : Int) -> Int {        
-               	
-		input -1      
+   func minusFunction(input : Int) -> Int {        
+      input -1      
            	
-		}      
+   }      
 
-   	if plus {     
-     	   
-	   return plusFunction(input : value)       
-   	 
-	   } else {       
-     	   
-	   return minusFunction(input : value)       
-    	   
-	   }        
-	
+   if plus {     
+     	return plusFunction(input : value)       
+   	 } else {       
+     	   return minusFunction(input : value)       
+    	  }        
 	}  
 	
+   var value = 4      
 
-	var value = 4      
-
-	chooseFunction(plus : true, value : value)        
-	chooseFunction(plus : false, value : value)   
+chooseFunction(plus : true, value : value)        
+chooseFunction(plus : false, value : value)  
+```
   
 
 
