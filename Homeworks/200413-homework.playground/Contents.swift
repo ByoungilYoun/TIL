@@ -61,19 +61,20 @@ func submultiple ( _ input : Int) {
 submultiple(10)
 //4)100 이하의 자연수 중 3과 5의 공배수를 모두 출력하는 함수
 
-func multipleNumber (_ num1: Int, _ num2 : Int) {
-    print("\(num1) 과 \(num2) 의 공배수는 ", terminator : " ")
-    for i in 1...100 {
-        if ((i % 3) == 0) && ((i % 5) == 0) {
-            print(i, terminator : " ")
+func printAllNum ( a : Int, b : Int ) {
+    print("\(a)와 \(b) 의 공배수는 " , terminator : " ")
+    
+    for i in 1...100{
+        if (( i % a) == 0) && ((i % b ) == 0) {
+            print( i , terminator : " ")
         }
-
-        }
-    print("입니다.")
-
+        
+    }
+    
 }
 
-multipleNumber(3, 5)
+printAllNum(a: 3, b: 5)
+
 
 //[ 도전 과제 ]
 //- 2 이상의 자연수를 입력받아, 소수인지 아닌지를 판별하는 함수
