@@ -29,6 +29,26 @@ func changeOver (_ num : Int) -> Int {
 changeOver(123)
 
 
+// 답 :
+func reverseDigit(num: Int) -> Int {
+  var reversedNumber = 0
+  var num = num
+  
+  while num > 0 {
+    reversedNumber = reversedNumber * 10 + num % 10
+    num /= 10
+  }
+  
+  return reversedNumber
+}
+
+
+print(reverseDigit(num: 123))
+print(reverseDigit(num: 10293))
+print(reverseDigit(num: 824))
+
+
+
 //- 100 ~ 900 사이의 숫자 중 하나를 입력받아 각 자리의 숫자가 모두 다른지 여부를 반환하는 함수
 //  ex) true - 123, 310, 369   /  false - 100, 222, 770
 
@@ -55,6 +75,22 @@ func isSame (_ input : Int) -> Bool {
 }
 
 isSame(12345)
+
+//답 :
+func isAllDigitDiff(num: Int) -> Bool {
+  guard 100...900 ~= num else {
+    print("100 ~ 900 사이의 숫자만 입력하세요")
+    return false
+  }
+  let numStr = String(num)
+  let uniqueValues = Set(numStr)
+  return uniqueValues.count == numStr.count
+}
+
+print(isAllDigitDiff(num: 123))
+print(isAllDigitDiff(num: 369))
+print(isAllDigitDiff(num: 222))
+print(isAllDigitDiff(num: 770))
 
 
 
