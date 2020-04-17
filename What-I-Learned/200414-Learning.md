@@ -583,6 +583,3 @@
   let uncommonSet = favoriteFruits.subtracting(tropicalFruits)
   uncommonSet
 ```
-
-  
-
