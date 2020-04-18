@@ -126,7 +126,43 @@ isPrimeNumber(23)
 //  참고로 피보나치 수열은 이전 두 수의 합이 다음 수가 되는 수열
 //  e.g.  0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 ....
 //  함수 호출 시 입력받은 숫자가 4인 경우 피보나치 수열의 4번째 위치인 2 출력
+
+func fibonacciNumber(at index: Int) -> Int {
+  var op1 = 0, op2 = 1
+  
+  for i in 0..<index {
+    if i % 2 == 0 {
+      op1 += op2
+    } else {
+      op2 += op1
+    }
+  }
+  
+  return index % 2 == 0 ? op1 : op2
+}
+
+fibonacciNumber(at: 0)
+fibonacciNumber(at: 1)
+fibonacciNumber(at: 2)
+fibonacciNumber(at: 3)
+fibonacciNumber(at: 4)
+fibonacciNumber(at: 5)
+fibonacciNumber(at: 6)
+
+
+
+
 //- 정수를 입력받아 윤년(2월 29일이 있는 해)인지 아닌지 판단하는 함수
 //  (공식 - 매 4년 마다 윤년. 매 100년 째에는 윤년이 아님. 매 400년 째에는 윤년)
 //  ex) 윤년O 예시 - 160, 204, 400, 1996, 2000, 2800
 //      윤년X 예시 - 200, 300, 500, 600, 1900, 2100
+
+func isLeapYear(_ year: Int) -> Bool {
+    if year.isMultiple(of: 400) {
+        return true
+    }   else if year.isMultiple(of: 100) {
+        return false
+    }   else {
+        return year.isMultiple(of: 4)
+    }
+}
