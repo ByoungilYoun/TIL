@@ -100,6 +100,42 @@ print(isAllDigitDiff(num: 770))
 //- 주어진 문자 배열에서 중복되지 않는 문자만을 뽑아내 배열로 반환해주는 함수
 //  ex) ["a", "b", "c", "a", "e", "d", "c"]  ->  ["b", "e" ,"d"]
 
+
+func printUniqueValues(from arr: [String]) -> [String] {
+  var recordArr: [String] = []
+  var result: [String] = []
+  
+  for str in strArr {
+    if !result.contains(str) && !recordArr.contains(str) {
+      result.append(str)
+    } else if let index = result.firstIndex(of: str) {
+      result.remove(at: index)
+      recordArr.append(str)
+    }
+  }
+  return result
+}
+
+let strArr = ["a", "b", "c", "a", "e", "d", "c"]
+print(printUniqueValues(from: strArr))
+
+
+
+
 //- 별도로 전달한 식육목 모식도 라는 자료를 보고 Dictionary 자료형에 맞도록 중첩형태로 데이터를 저장하고
 //  + 해당 변수에서 표범 하위 분류를 찾아 사자와 호랑이를 출력하기
+
+
+
+let dict = ["식육목": ["개과": ["개": ["자칼","늑대","북미산 이리",], "여우": ["아메리카 여우",
+        "유럽 여우",]],"고양이과": ["고양이": ["고양이","살쾡이"],"표범": ["사자","호랑이"]]]]
+
+if let 식육목 = dict["식육목"],
+  let 고양이과 = 식육목["고양이과"],
+  let 표범속 = 고양이과["표범"] {
+  for 종 in 표범속 {
+    print(종)
+  }
+}
+
 
