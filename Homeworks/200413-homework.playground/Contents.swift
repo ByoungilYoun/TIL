@@ -166,3 +166,10 @@ func isLeapYear(_ year: Int) -> Bool {
         return year.isMultiple(of: 4)
     }
 }
+
+isLeapYear(2000)
+isLeapYear(2004)
+
+isLeapYear(1000)
+isLeapYear(1970)
+isLeapYear(2002)
