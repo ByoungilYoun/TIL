@@ -62,11 +62,11 @@ submultiple(10)
 //4)100 이하의 자연수 중 3과 5의 공배수를 모두 출력하는 함수
 
 func printAllNum ( a : Int, b : Int ) {
-    print("\(a)와 \(b) 의 공배수는 " , terminator : " ")
+    print("\(a)와 \(b) 의 공배수는 " )
     
     for i in 1...100{
         if (( i % a) == 0) && ((i % b ) == 0) {
-            print( i , terminator : " ")
+            print( i )
         }
         
     }
@@ -78,6 +78,50 @@ printAllNum(a: 3, b: 5)
 
 //[ 도전 과제 ]
 //- 2 이상의 자연수를 입력받아, 소수인지 아닌지를 판별하는 함수
+
+func existOnlyTwoNums (_ num : Int) {
+    var array : [Int] = []
+    
+    for i in 1...num {
+        if num % i == 0 {
+            array.append(i)
+        }
+        
+    }
+    
+    if array.count == 2{
+        print(" 숫자 \(num) 은(는) 소수 입니다.")
+    } else {
+        print(" 숫자 \(num) 은(는) 소수가 아닙니다.")
+    }
+
+
+}
+
+existOnlyTwoNums(14)
+
+// 답안지 풀이 :
+func isPrimeNumber(_ number: Int) -> Bool {
+  guard number > 1 else { return false }
+  guard number != 2 else { return true }
+  
+  for i in 2..<number {
+    if number % i == 0 {
+      return false
+    }
+  }
+  return true
+}
+
+isPrimeNumber(15)
+isPrimeNumber(33)
+isPrimeNumber(94)
+
+isPrimeNumber(2)
+isPrimeNumber(17)
+isPrimeNumber(23)
+
+
 //- 자연수 하나를 입력받아 피보나치 수열 중에서 입력받은 수에 해당하는 자리의 숫자를 반환하는 함수
 //  참고로 피보나치 수열은 이전 두 수의 합이 다음 수가 되는 수열
 //  e.g.  0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 ....
