@@ -1,5 +1,5 @@
 # TIL
-Trying to write what I learn everyday    
+Trying to write what I learn everyday in FastCampus
 
 ---    
 
