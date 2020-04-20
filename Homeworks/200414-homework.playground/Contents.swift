@@ -99,7 +99,7 @@ print(isAllDigitDiff(num: 770))
 //[ 도전 과제 ]
 //- 주어진 문자 배열에서 중복되지 않는 문자만을 뽑아내 배열로 반환해주는 함수
 //  ex) ["a", "b", "c", "a", "e", "d", "c"]  ->  ["b", "e" ,"d"]
-
+// 아직 해결 안됨
 
 func printUniqueValues(from arr: [String]) -> [String] {
   var recordArr: [String] = []
@@ -122,7 +122,7 @@ print(printUniqueValues(from: strArr))
 
 
 
-//- 별도로 전달한 식육목 모식도 라는 자료를 보고 Dictionary 자료형에 맞도록 중첩형태로 데이터를 저장하고
+//- 별도로 전달한 식육목 모식도 라는 자료를 보고 Dictionary 자료형에 맞도록 중첩형태로 데이터를 저장하고
 //  + 해당 변수에서 표범 하위 분류를 찾아 사자와 호랑이를 출력하기
 
 
