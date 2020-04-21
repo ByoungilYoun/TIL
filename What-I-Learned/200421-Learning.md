@@ -1,8 +1,8 @@
-#Access Control 
+# Access Control 
 
 ---
 
-##**Contents**
+## **Contents**
 
 - Access Control 
 - Getters and Setters
@@ -378,67 +378,67 @@ final class Circle: Shape {
 
  - 다른 파라미터 이름, 다른 파라미터 타입, 다른 파라미터 개수
 
-   ``` swift 
-   func printParameter() {
-     print("No param")
-   }
-   
-   //func printParameter() -> String {   // Error - 함수의 이름이 같다. 위 메서드와 둘중 뭘 실행해야할지 																									모른다.
-   //  "No param"
-   //}
-   
-   func printParameter(param: Int) {
-     print("Input :", param)
-   }
-   
-   func printParameter(_ param: Int) {
-     print("Input :", param)
-   }
-   
-   printParameter()
-   printParameter(param: 1)
-   printParameter(1)
-   
-   
-   func printParameter(param: String) {
-     print("Input :", param)
-   }
-   
-   func printParameter(_ param: String) {
-     print("Input :", param)
-   }
-   
-   func printParameter(name param: String) {
-     print("Input :", param)
-   }
-   //func printParameter(param name: String) {   // Error - 첫번째꺼랑 똑같다. 구분 불가능
-   //  print("Input :", name)
-   //}
-   printParameter(param: "hello")
-   printParameter("hello")
-   printParameter(name: "Hello")
-   
-   func printParameter(param: String, param1: String) {
-     print("Input :", param, param1)
-   }
-   
-   func printParameter(_ param: String, _ param1: String) {
-     print("Input :", param, param1)
-   }
-   
-   func printParameter(_ param: String, param1: String) {
-     print("Input :", param, param1)
-   }
-   
-   func printParameter(param: String, _ param1: String) {
-     print("Input :", param, param1)
-   }
-   
-   printParameter("hello", "world")
-   printParameter("hello", param1: "world")
-   printParameter(param: "hello", "world")
-   
-   ```
+``` swift
+func printParameter() {
+  print("No param")
+}
+
+//func printParameter() -> String {   // Error - 함수의 이름이 같다. 위 메서드와 둘중 뭘 실행해야할지 																									모른다.
+//  "No param"
+//}
+
+func printParameter(param: Int) {
+  print("Input :", param)
+}
+
+func printParameter(_ param: Int) {
+  print("Input :", param)
+}
+
+printParameter()
+printParameter(param: 1)
+printParameter(1)
+
+
+func printParameter(param: String) {
+  print("Input :", param)
+}
+
+func printParameter(_ param: String) {
+  print("Input :", param)
+}
+
+func printParameter(name param: String) {
+  print("Input :", param)
+}
+//func printParameter(param name: String) {   // Error - 첫번째꺼랑 똑같다. 구분 불가능
+//  print("Input :", name)
+//}
+printParameter(param: "hello")
+printParameter("hello")
+printParameter(name: "Hello")
+
+func printParameter(param: String, param1: String) {
+  print("Input :", param, param1)
+}
+
+func printParameter(_ param: String, _ param1: String) {
+  print("Input :", param, param1)
+}
+
+func printParameter(_ param: String, param1: String) {
+  print("Input :", param, param1)
+}
+
+func printParameter(param: String, _ param1: String) {
+  print("Input :", param, param1)
+}
+
+printParameter("hello", "world")
+printParameter("hello", param1: "world")
+printParameter(param: "hello", "world")
+```
+
 
    
 
