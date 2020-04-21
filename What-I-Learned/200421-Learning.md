@@ -1,8 +1,8 @@
-#Access Control 
+# Access Control 
 
 ---
 
-##**Contents**
+## **Contents**
 
 - Access Control 
 - Getters and Setters
