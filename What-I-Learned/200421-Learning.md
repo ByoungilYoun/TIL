@@ -378,7 +378,8 @@ final class Circle: Shape {
 
  - 다른 파라미터 이름, 다른 파라미터 타입, 다른 파라미터 개수
 
-  func printParameter() {
+``` swift
+func printParameter() {
   print("No param")
 }
 
@@ -436,6 +437,8 @@ func printParameter(param: String, _ param1: String) {
 printParameter("hello", "world")
 printParameter("hello", param1: "world")
 printParameter(param: "hello", "world")
+```
+
 
    
 
