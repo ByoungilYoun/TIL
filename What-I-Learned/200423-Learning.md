@@ -76,17 +76,17 @@
 
 
 
-\# [AppDelegate 만 사용할 때]
+# [AppDelegate 만 사용할 때]
 
 
 
-\1. SceneDelegate.swift 삭제
+1. SceneDelegate.swift 삭제
 
-\2. AppDelegate.swift 파일에서 UISceneSession Lifecycle 부분 삭제
+2. AppDelegate.swift 파일에서 UISceneSession Lifecycle 부분 삭제
 
-\3. AppDelegate.swift 파일에 var window: UIWindow? 프로퍼티 작성
+3. AppDelegate.swift 파일에 var window: UIWindow? 프로퍼티 작성
 
-\4. Info.plist에서 Application Scene Manifest 키 삭제
+4. Info.plist에서 Application Scene Manifest 키 삭제
 
 
 
