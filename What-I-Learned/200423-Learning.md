@@ -89,5 +89,3 @@
 4. Info.plist에서 Application Scene Manifest 키 삭제
 
 
-
-\---
