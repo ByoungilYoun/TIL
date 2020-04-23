@@ -22,8 +22,7 @@
 
 
 
-\- ![스크린샷 2020-04-23 오후 1.07.46](/Users/youn/Library/Application Support/typora-user-images/스크린샷 2020-04-23 오후 1.07.46.png)
-
+\- ![1](https://github.com/ByoungilYoun/TIL/blob/master/Images/1.png)
 
 
 \- Source Editor![스크린샷 2020-04-23 오후 1.08.29](/Users/youn/Library/Application Support/typora-user-images/스크린샷 2020-04-23 오후 1.08.29.png)
