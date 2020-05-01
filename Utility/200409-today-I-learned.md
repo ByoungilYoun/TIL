@@ -60,6 +60,8 @@
     -Magnet : 화면 분할(유료 2,500원)  (https://apps.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12)
 
 
+   9. RunCat 
+   
 ## 구글 관련 검색 팁
 
     1. swift intitle:ios  (구글 검색할때 타이틀로 iOS 가 있어야 한다)
