@@ -414,7 +414,7 @@ print(inside) // 에러
 
 - Argument Label     
     
-   
+```    
 func someFunction(first: Int, second : Int) {      
    print(first, second)     
 }     
@@ -508,29 +508,3 @@ func chooseFunction(plus : Bool, value : Int) -> Int {
 chooseFunction(plus : true, value : value)        
 chooseFunction(plus : false, value : value)  
 ```
-  
-
-
-
-
-
-
-      
-  
-  
-
-
-    
-
-    
-
- 
-
-    
-   
-   
-
-  
-
-  
- 
