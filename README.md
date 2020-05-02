@@ -36,6 +36,21 @@ Trying to write what I learn everyday in FastCampus👍🏻
 
 4. What-I-Learned.   
 
+1)[Computer History and Concepts](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200406-Learning.md).  
+2)[Terminal & Git](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200407-Learning.md).  
+3)[The Swift Programming Language](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200410-Learning.md).  
+4)[Conditional Statements & Loops](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200413-Learning.md).  
+5)[Collections](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200414-Learning.md).  
+6)[Enum & Optional](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200416-Learning.md).  
+7)[Closure](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200417-Learning.md).  
+8)[OOP(Object-Oriented Programming)](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200420-Learning.md).  
+9)[Access Control & OOP 4대 특성](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200421-Learning.md).  
+10)[The App Life Cycle](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200423-Learning.md).  
+11)[UI Guide](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200424-Learning.md).  
+12)[UIViewController](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200427-Learning.md).  
+
+---
+
 5. Git
 
 
