@@ -18,6 +18,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 7) [200421-homework.playground](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/200421-homework.playground/Contents.swift).  
 8) [200423-homework.playground](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/200423-homework.playground/Contents.swift).  
 9) [200424-homework.playground](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/200424-homework.playground/Contents.swift).  
+10) [200504-homework.playground](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/200504-homework.playground/Contents.swift).  
 
 - Projects.  
 
