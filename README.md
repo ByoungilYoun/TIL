@@ -48,6 +48,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 10)[The App Life Cycle](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200423-Learning.md).  
 11)[UI Guide](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200424-Learning.md).  
 12)[UIViewController](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200427-Learning.md).  
+13)[Type Casting](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200504-Learning.md).  
 
 ---
 
