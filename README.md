@@ -5,7 +5,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 
 ## Contents.  
 
-1. Homeworks.   
+### 1) Homeworks.   
 
 - Playgrounds.  
 
@@ -31,11 +31,11 @@ Trying to write what I learn everyday in FastCampus👍🏻
 
 ---
 
-2. Images.  
+### 2) Images.  
 
-3. Utility.   
+### 3) Utility.   
 
-4. What-I-Learned.   
+### 4) What-I-Learned.   
 
 1) [Computer History and Concepts](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200406-Learning.md).  
 2) [Terminal & Git](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200407-Learning.md).  
@@ -53,6 +53,6 @@ Trying to write what I learn everyday in FastCampus👍🏻
 
 ---
 
-5. Git
+### 5) Git
 
 
