@@ -28,6 +28,9 @@ Trying to write what I learn everyday in FastCampus👍🏻
 4) [Label_Textfield_practice](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/Label_Textfield_practice/Label_Textfield_practice).  
 5) [200429_MyAlertController](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/200429_MyAlertController/200429_MyAlertController).  
 6) [Menu_Test](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/Menu_Test/Menu_Test).  
+7) [Segue-Homework](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/Segue-Homework/Segue-Homework). 
+
+
 
 ---
 
