@@ -60,6 +60,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 14) [ChangingViews & Segue](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200507-Learning.md).  
 15) [UserDefaults](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200508-Learning.md).  
 16) [Memory Management](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning.md).  
+17) [ARC & Struct](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning2.md).  
 
 ---
 
