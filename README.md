@@ -61,6 +61,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 15) [UserDefaults](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200508-Learning.md).  
 16) [Memory Management](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning.md).  
 17) [ARC & Struct](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning2.md).  
+18) [Delegate](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200512-Learning.md).  
 
 ---
 
