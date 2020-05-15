@@ -10,7 +10,7 @@
 
 ### 2) External / Internal Changes
 
-- 외벅 변화 요소 (External Changes)
+- 외적 변화 요소 (External Changes)
   - 서로 다른 기기 및 스크린 크기
   - 기기 회전
   - iPad / iPhone 등에서 Split View 로 진입하거나 빠져나올 때 
