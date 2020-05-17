@@ -37,11 +37,14 @@ Trying to write what I learn everyday in FastCampus👍🏻
 12) [DelegateHomework](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/DelegateHomework/DelegateHomework).
 13) [FastCampus Login Practice](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/FastCampusLoginPractice/FastCampusLoginPractice).  
 
-
-
 ---
 
 ### 2) Images.  
+
+1) [200424-Images](https://github.com/ByoungilYoun/TIL/tree/master/Images/200424-Images).  
+2) [200427-Images](https://github.com/ByoungilYoun/TIL/tree/master/Images/200427-Images).  
+3) [200511-Images](https://github.com/ByoungilYoun/TIL/tree/master/Images/200511-Images).     
+4) [200512-Images](https://github.com/ByoungilYoun/TIL/tree/master/Images/200512-Images). 
 
 ### 3) Utility.   
 
@@ -64,7 +67,8 @@ Trying to write what I learn everyday in FastCampus👍🏻
 15) [UserDefaults](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200508-Learning.md).  
 16) [Memory Management](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning.md).  
 17) [ARC & Struct](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning2.md).  
-18) [Delegate](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200512-Learning.md).  
+18) [Delegate](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200512-Learning.md).   
+19) [Auto Layout](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200515-Learning.md).  
 
 ---
 
