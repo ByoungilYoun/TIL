@@ -1,5 +1,5 @@
 # TIL
-Trying to write what I learn everyday in FastCampus👍🏻
+Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 
 ---    
 
@@ -38,6 +38,7 @@ Trying to write what I learn everyday in FastCampus👍🏻
 13) [FastCampus Login Practice](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/FastCampusLoginPractice/FastCampusLoginPractice). 
 14) [AutoLayoutPractice by Coding](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/projects/AutoLayoutPractice/AutoLayoutPractice/ViewController.swift).  
 15) [AutoLayout_Homework](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/AutoLayout_Homework/AutoLayout_Homework). 
+16) [AutoLayout_Anchors](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/projects/AutoLayout_Anchors/AutoLayout_Anchors/ViewController.swift).  
 
 ---
 
@@ -50,6 +51,8 @@ Trying to write what I learn everyday in FastCampus👍🏻
 5) [200518-Images](https://github.com/ByoungilYoun/TIL/tree/master/Images/200518-Images).  
 
 ### 3) Utility.   
+
+1) [What I downloaded](https://github.com/ByoungilYoun/TIL/blob/master/Utility/200409-today-I-learned.md).  
 
 ### 4) What-I-Learned.   
 
@@ -76,6 +79,8 @@ Trying to write what I learn everyday in FastCampus👍🏻
 
 ---
 
-### 5) Git
+### 5) Git.  
+  
+1) [How to work with Git](https://github.com/ByoungilYoun/TIL/blob/master/git/200408-how-to-work-with-git.md).  
 
 
