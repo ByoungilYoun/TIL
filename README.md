@@ -79,6 +79,8 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 19) [Auto Layout](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200515-Learning.md).  
 20) [AutoLayoutAnchors](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200518-Learning.md).
 21) [TableViewCell_Basic](https://www.notion.so/byoungilyoun/TableViewCell-Basic-114e648a60b7462da229362e5aa562f5).  
+22) [TableViewRefreshing](https://www.notion.so/byoungilyoun/TableView-Refreshing-365707d2797648788239bdd5ee8f4d67).  
+23) [TableViewSection](https://www.notion.so/byoungilyoun/TableView-Section-4cce971e34764ebea0cdbc54cdeeb6d9).  
 
 ---
 
