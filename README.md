@@ -77,7 +77,8 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 17) [ARC & Struct](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200511-Learning2.md).  
 18) [Delegate](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200512-Learning.md).   
 19) [Auto Layout](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200515-Learning.md).  
-20) [AutoLayoutAnchors](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200518-Learning.md).  
+20) [AutoLayoutAnchors](https://github.com/ByoungilYoun/TIL/blob/master/What-I-Learned/200518-Learning.md).
+21) [TableViewCell_Basic](https://www.notion.so/byoungilyoun/TableViewCell-Basic-114e648a60b7462da229362e5aa562f5).  
 
 ---
 
