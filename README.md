@@ -82,6 +82,9 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 21) [TableViewCell_Basic](https://www.notion.so/byoungilyoun/TableViewCell-Basic-114e648a60b7462da229362e5aa562f5).  
 22) [TableViewRefreshing](https://www.notion.so/byoungilyoun/TableView-Refreshing-365707d2797648788239bdd5ee8f4d67).  
 23) [TableViewSection](https://www.notion.so/byoungilyoun/TableView-Section-4cce971e34764ebea0cdbc54cdeeb6d9).  
+24) [TableViewCellStyle](https://www.notion.so/byoungilyoun/TableViewCellStyle-0b16e719bf2b45f9ac4d2b56ce292f2c). 
+25) [TableView CustomCell](https://www.notion.so/byoungilyoun/TableView-CustomCell-35fe7ac6320e4d738a70a6f9f96b853c).  
+26) [TableView Editing](https://www.notion.so/byoungilyoun/TextViewEditing-56fb125a285c48fc891b68e4682d6d75).  
 
 ---
 
