@@ -1,5 +1,5 @@
 # TIL
-Trying to write what I learn everyday in FastCampus🧑🏼‍💻
+Trying to write what I learn everyday in FastCampus
 
 ---    
 
@@ -39,7 +39,8 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 14) [AutoLayoutPractice by Coding](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/projects/AutoLayoutPractice/AutoLayoutPractice/ViewController.swift).  
 15) [AutoLayout_Homework](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/AutoLayout_Homework/AutoLayout_Homework). 
 16) [AutoLayout_Anchors](https://github.com/ByoungilYoun/TIL/blob/master/Homeworks/projects/AutoLayout_Anchors/AutoLayout_Anchors/ViewController.swift).  
-17) [FastCampus Login Practice Final](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/FastCampusLoginPractice2%20복사본/FastCampusLoginPractice2). 
+17) [FastCampus Login Practice Final](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/FastCampusLoginPractice2%20복사본/FastCampusLoginPractice2).
+18) [TableViewPractice](https://github.com/ByoungilYoun/TIL/tree/master/Homeworks/projects/TableViewPractice%20-%20Final/TableViewPractice/Practice).  
 
 
 ---
@@ -81,7 +82,14 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 21) [TableViewCell_Basic](https://www.notion.so/byoungilyoun/TableViewCell-Basic-114e648a60b7462da229362e5aa562f5).  
 22) [TableViewRefreshing](https://www.notion.so/byoungilyoun/TableView-Refreshing-365707d2797648788239bdd5ee8f4d67).  
 23) [TableViewSection](https://www.notion.so/byoungilyoun/TableView-Section-4cce971e34764ebea0cdbc54cdeeb6d9).  
-
+24) [TableViewCellStyle](https://www.notion.so/byoungilyoun/TableViewCellStyle-0b16e719bf2b45f9ac4d2b56ce292f2c). 
+25) [TableView CustomCell](https://www.notion.so/byoungilyoun/TableView-CustomCell-35fe7ac6320e4d738a70a6f9f96b853c).  
+26) [TableView Editing](https://www.notion.so/byoungilyoun/TextViewEditing-56fb125a285c48fc891b68e4682d6d75).  
+27) [UINavigationController](https://www.notion.so/byoungilyoun/UINavigationController-64ba1845d83644548d09d12214e5b040). 
+28) [2차 테스트](https://www.notion.so/byoungilyoun/2-bfc49b0792a14fdd87e5309f65ee8910).  
+29) [TableViewShoppingList](https://www.notion.so/byoungilyoun/TableViewShoppingItems-7f1a747e24224740b1c78c325f62bafa). 
+30) [UIImagePicker Controller & UIContextMenuInteraction](https://www.notion.so/byoungilyoun/UIImagePicker-Controller-f760fd372db04a528c9b14f002b6075f).  
+31) [GradientLayer](https://www.notion.so/byoungilyoun/Gradient-d4141ebaedfe432c847f5c11351ec25d).  
 ---
 
 ### 5) Git.  
