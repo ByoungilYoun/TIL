@@ -95,6 +95,7 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 33) [StackView](https://www.notion.so/byoungilyoun/StackView-dfafc0fb5ecf4f0ebc043141286d0bbc)        
 34) [String형 버튼 만들기](https://www.notion.so/byoungilyoun/String-18ab2a9384ec4ccdbea163530aaf4e08).  
 35) [High-order Function](https://www.notion.so/byoungilyoun/High-Order-Function-46b34632cfcc4bdda72a086b567f7b1d)   
+36 [UICollectionView](https://www.notion.so/byoungilyoun/UICollectionView-2a37d72b523646d9a31ff898fa76d9df).  
 ---
 
 ### 5) Git.  
