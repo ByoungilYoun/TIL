@@ -92,10 +92,10 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 30) [UIImagePicker Controller & UIContextMenuInteraction](https://www.notion.so/byoungilyoun/UIImagePicker-Controller-f760fd372db04a528c9b14f002b6075f).  
 31) [GradientLayer](https://www.notion.so/byoungilyoun/Gradient-d4141ebaedfe432c847f5c11351ec25d).  
 32) [리팩토링](https://www.notion.so/byoungilyoun/2cb5e164730940d59ea8abb1d232f793).  
-33) [StackView](https://www.notion.so/byoungilyoun/StackView-dfafc0fb5ecf4f0ebc043141286d0bbc)        
+33) [StackView](https://www.notion.so/byoungilyoun/StackView-dfafc0fb5ecf4f0ebc043141286d0bbc).        
 34) [String형 버튼 만들기](https://www.notion.so/byoungilyoun/String-18ab2a9384ec4ccdbea163530aaf4e08).  
 35) [High-order Function](https://www.notion.so/byoungilyoun/High-Order-Function-46b34632cfcc4bdda72a086b567f7b1d).    
-36 [UICollectionView](https://www.notion.so/byoungilyoun/UICollectionView-2a37d72b523646d9a31ff898fa76d9df).  
+36  [UICollectionView](https://www.notion.so/byoungilyoun/UICollectionView-2a37d72b523646d9a31ff898fa76d9df).  
 ---
 
 ### 5) Git.  
