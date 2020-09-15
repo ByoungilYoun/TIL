@@ -1,4 +1,4 @@
-# TIL
+## TIL
 Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 
 ---    
