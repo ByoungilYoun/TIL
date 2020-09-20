@@ -96,6 +96,7 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 35) [High-order Function](https://www.notion.so/byoungilyoun/High-Order-Function-46b34632cfcc4bdda72a086b567f7b1d).    
 36) [UICollectionView](https://www.notion.so/byoungilyoun/UICollectionView-2a37d72b523646d9a31ff898fa76d9df).  
 37) [Custom Button 만들기](https://www.notion.so/byoungilyoun/CustomButton-sns-button-1464fa1fa8884f3fac271972658f63d7).  
+38) [Getting Data From API](https://www.notion.so/byoungilyoun/Getting-Data-From-API-in-Swift-3c1282e8129343639aa0cb180493f349).  
 ---
 
 ### 5) Git.  
