@@ -97,7 +97,7 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 36) [UICollectionView](https://www.notion.so/byoungilyoun/UICollectionView-2a37d72b523646d9a31ff898fa76d9df).  
 37) [Custom Button 만들기](https://www.notion.so/byoungilyoun/CustomButton-sns-button-1464fa1fa8884f3fac271972658f63d7).  
 38) [Getting Data From API](https://www.notion.so/byoungilyoun/Getting-Data-From-API-in-Swift-3c1282e8129343639aa0cb180493f349).  
----
+39) [SideMenu Practice](https://www.notion.so/byoungilyoun/SideMenu-Practice-b716f80eb3ef420b9fe8b1504002e661).  
 
 ### 5) Git.  
   
