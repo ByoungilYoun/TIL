@@ -99,6 +99,9 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 38) [Getting Data From API](https://www.notion.so/byoungilyoun/Getting-Data-From-API-in-Swift-3c1282e8129343639aa0cb180493f349).  
 39) [SideMenu Practice](https://www.notion.so/byoungilyoun/SideMenu-Practice-b716f80eb3ef420b9fe8b1504002e661).  
 40) [Basic Animation UIVIew](https://www.notion.so/byoungilyoun/Basic-Animation-UIView-0174f99cb1544204aae5acea246326df).  
+41) [UITapGesture 를 이용한 뷰 없애기](https://www.notion.so/byoungilyoun/UITapGesture-a0fcad0849c448e88f3e4db37cfe0d99).  
+
+
 
 ### 5) Git.  
   
