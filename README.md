@@ -106,7 +106,7 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 45) [버튼 이미지 크기 조정하기](https://www.notion.so/byoungilyoun/6736611de37a4fc7abb3dbc35011ddac).  
 46) [SwiftLint](https://www.notion.so/byoungilyoun/SwiftLint-a8b11af8311a4b69854b55c914aeabb9).  
 47) [Set up Firebase in My App (Analytics, Crashlytics, Database & More)](https://www.notion.so/byoungilyoun/Set-up-Firebase-in-My-App-Analytics-Crashlytics-Database-More-c5958c84e999439cb0405ea9e85215df).  
-
+48) [CollectionView & Page Control](https://www.notion.so/byoungilyoun/CollectionView-PageControl-2d53cebb55dc42d09e173e16202cd761).  
 
 
 ### 5) Git.  
