@@ -112,5 +112,6 @@ Trying to write what I learn everyday in FastCampus🧑🏼‍💻
 ### 5) Git.  
   
 1) [How to work with Git](https://github.com/ByoungilYoun/TIL/blob/master/git/200408-how-to-work-with-git.md).  
+2) [Git 에 대한 기초 정리](https://www.notion.so/byoungilyoun/Git-c3a03acb2d11422fa3359b473b1b53d5).  
 
 
